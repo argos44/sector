@@ -32,8 +32,8 @@ endfor
 
 #Have to close the figure window to continue with the iteraion. But the overall speed of drawing a new window, AND plot the function, which should be exactly the same without the random pause.*/
 
-##/*The functions are the same, except they originate from  different x axis values, or truncated coordinates. Truncated means that only one element of a pair of numbers defining a point in vectorspace are available.
-# That is the value of the origin point of the since functionon on the x axis
+#The functions are the same, except they originate from  different x axis values, or truncated coordinates. Truncated means that only one element of a pair of numbers defining a point in vectorspace are available.
+# That is the value of the origin point of the sine function on the x axis
 
 #So, graphically you can intercept visual patterns emerging from the constant speed of the graphics card, the cpu, the memory bus speed, and this combined with a random pause between iterations, or instantiation of a new graphics windows
 #The random generation of the waiting time is also consuming CPU time
