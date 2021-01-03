@@ -1,3 +1,9 @@
+%so..... try out matlab 5 for android... i am notsure, but I think it is ok for mathworks, since it is from around millennia.
+
+%also, the cities... yes, because your hand is below eye4 leve... so... anatomically.... be happy at home with your android :DD
+
+
+
 ## Copyright (C) 2020 night
 ## 
 ## This program is free software; you can redistribute it and/or modify it
